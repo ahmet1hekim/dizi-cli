@@ -10,11 +10,11 @@ A cli tool for watching TV shows directly from your terminal. Built with Go usin
 
 <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td width="60%" style="border: none;">
+    <td width="50%" style="border: none;">
       <img src="./readmegifs/1.gif" style="width: 100%">
       <p align="center"><b>Search and select shows</b></p>
     </td>
-    <td width="60%" style="border: none;">
+    <td width="50%" style="border: none;">
       <img src="./readmegifs/2.gif" style="width: 100%">
       <p align="center"><b>Browse seasons & episodes</b></p>
     </td>
