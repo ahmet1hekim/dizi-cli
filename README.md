@@ -11,12 +11,9 @@ A cli tool for watching TV shows directly from your terminal. Built with Go usin
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start;">
   <!-- First Row - Side by Side -->
   <div style="flex: 1 1 45%; min-width: 300px; box-sizing: border-box;">
-    <img src="./readmegifs/1.gif" style="width: 100%; height: auto; display: block;">
+    <img src="./readmegifs/1.gif" style="width: 50%; height: auto; display: block;">
     <p align="center"><b>Search and select shows</b></p>
-  </div>
-  
-  <div style="flex: 1 1 45%; min-width: 300px; box-sizing: border-box;">
-    <img src="./readmegifs/2.gif" style="width: 100%; height: auto; display: block;">
+    <img src="./readmegifs/2.gif" style="width: 50%; height: auto; display: block;">
     <p align="center"><b>Search and select seasons and episodes</b></p>
   </div>
 
