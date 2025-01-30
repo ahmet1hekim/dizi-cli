@@ -7,7 +7,7 @@ A cli tool for watching TV shows directly from your terminal. Built with Go usin
 
 **Disclaimer**: This project is for educational purposes only. Use it at your own risk. I do not endorse or support piracy.I just made this to learn more about go and web scraping.
 
-##Features and Usage
+## Features and Usage
 
 <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
