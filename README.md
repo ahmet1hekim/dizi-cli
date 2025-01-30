@@ -5,16 +5,16 @@
 
 A cli tool for watching TV shows directly from your terminal. Built with Go using Colly for web scraping and ChromeDP for headless browsing.Scraping some **pirated** show sites and watching them from your terminal.
 
-**Disclaimer**: This project is for educational purposes only. Use it at your own risk. I do not endorse or support piracy.İ just made this to learn more about go and web scraping.
+**Disclaimer**: This project is for educational purposes only. Use it at your own risk. I do not endorse or support piracy.I just made this to learn more about go and web scraping.
 
 
 <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td width="50%" style="border: none;">
+    <td width="60%" style="border: none;">
       <img src="./readmegifs/1.gif" style="width: 100%">
       <p align="center"><b>Search and select shows</b></p>
     </td>
-    <td width="50%" style="border: none;">
+    <td width="60%" style="border: none;">
       <img src="./readmegifs/2.gif" style="width: 100%">
       <p align="center"><b>Browse seasons & episodes</b></p>
     </td>
