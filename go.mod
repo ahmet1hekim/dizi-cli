@@ -1,4 +1,4 @@
-module scraper
+module dizi-cli
 
 go 1.23.5
 
