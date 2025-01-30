@@ -8,23 +8,19 @@ A cli tool for watching TV shows directly from your terminal. Built with Go usin
 **Disclaimer**: This project is for educational purposes only. Use it at your own risk. I do not endorse or support piracy.İ just made this to learn more about go and web scraping.
 
 
-## Features ✨
-
-<table>
-  <tr>
-    <!-- First Row - Side by Side -->
-    <td width="50%">
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td width="50%" style="border: none;">
       <img src="./readmegifs/1.gif" style="width: 100%">
       <p align="center"><b>Search and select shows</b></p>
     </td>
-    <td width="50%">
+    <td width="50%" style="border: none;">
       <img src="./readmegifs/2.gif" style="width: 100%">
       <p align="center"><b>Browse seasons & episodes</b></p>
     </td>
   </tr>
-  <tr>
-    <!-- Second Row - Full Width -->
-    <td colspan="2">
+  <tr style="border: none;">
+    <td colspan="2" style="border: none;">
       <img src="./readmegifs/3.gif" style="width: 100%; max-width: 800px; display: block; margin: 0 auto">
       <p align="center"><b>Stream the chosen episode</b></p>
     </td>
