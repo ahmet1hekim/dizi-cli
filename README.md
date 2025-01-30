@@ -1,5 +1,5 @@
 # dizi-cli 
-![Go Version](https://img.shields.io/badge/go-%3E%3D1.16-blue.svg?logo=go&logoColor=white)
+![Go Version](https://img.shields.io/badge/go-%3E%3D1.23-blue.svg?logo=go&logoColor=white)
 [![Colly](https://img.shields.io/badge/colly-v2.8.1-green.svg)](https://github.com/gocolly/colly)
 [![ChromeDP](https://img.shields.io/badge/chromedp-v0.9.1-green.svg)](https://github.com/chromedp/chromedp)
 
@@ -28,7 +28,7 @@ A cli tool for watching TV shows directly from your terminal. Built with Go usin
 You can get the precompiled version from the releases tab.
 ### Build From Source
 #### Prerequisites
-- Go 1.16+
+- Go 1.23+
 - Chrome/Chromium browser
 
 ```bash
